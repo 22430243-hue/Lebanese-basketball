@@ -1,0 +1,44 @@
+.players-page {
+  font-family: 'Times New Roman', Times, serif;
+  color:white;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.team-image {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.team-image img {
+  max-width: 60%;
+  border-radius: 12px;
+}
+
+h2, h3 {
+  margin-bottom: 10px;
+}
+
+.player-list, .coach-list, .staff-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.player-card, .coach-card, .staff-card {
+  background-color:black;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.player-info h4, .coach-card h4, .staff-card h4 {
+  margin: 0 0 5px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.player-info p, .coach-card p, .staff-card p {
+  margin: 3px 0;
+  font-size: 14px;
+}

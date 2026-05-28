@@ -1,0 +1,39 @@
+.hero {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.overlay {
+  text-align:center;
+  background: rgba(0, 0, 0, 0.411);
+  padding: 40px;
+  border-radius: 10px;
+}
+.overlay h2 {
+  font-size: 48px;
+  color:green;
+  margin-bottom: 10px;
+
+}
+.slogan {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: white;
+}
+.aboutButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #d32f2f; /* red accent */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
+
+.aboutButton:hover {
+  transform: scale(1.1);
+  background-color: #b71c1c; /* darker red on hover */
+}
