@@ -17,12 +17,7 @@ This project highlights responsive design (works on desktop and mobile), uses Ta
 2. Run `npm install`
 3. Run `npm start`
 
-## Deployment
-Live site: https://lebanese-basketball.vercel.app
-
-
 ## Screenshots
-
 **Welcome Page**
 ![Welcome Page](screenshots/welcome.png)
 **Home Page**
@@ -31,9 +26,3 @@ Live site: https://lebanese-basketball.vercel.app
 ![Games Page](screenshots/games.png)
 **Team Page**
 ![Team Page](screenshots/team.png)
-
-## Technologies Used
-- ReactJS
-- Tailwind CSS
-- Git & GitHub
-- Vercel
