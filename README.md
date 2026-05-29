@@ -1,5 +1,5 @@
 ## Project Title  
-Lebanese Basketball Web App
+Lebanese Basketball Web
 
 ## Project Description
 The Lebanese Basketball Web App is a ReactJS frontend application designed to showcase Lebanese basketball teams, games, and related information. The project demonstrates modern web design principles, responsive UI/UX, and version control practices using Git and GitHub.  
