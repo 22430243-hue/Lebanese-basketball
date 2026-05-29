@@ -22,10 +22,14 @@ Live site: https://lebanese-basketball.vercel.app
 
 
 ## Screenshots
-![Navbar](./src/components/NavBar.js)
+
+**Welcome Page**
 ![Welcome Page](screenshots/welcome.png)
+**Home Page**
 ![Home Page](screenshots/home.png)
+**Games Page**
 ![Games Page](screenshots/games.png)
+**Team Page**
 ![Team Page](screenshots/team.png)
 
 ## Technologies Used
