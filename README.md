@@ -17,7 +17,12 @@ This project highlights responsive design (works on desktop and mobile), uses Ta
 2. Run `npm install`
 3. Run `npm start`
 
+## Deployment
+Live site: https://lebanese-basketball.vercel.app
+
+
 ## Screenshots
+![Navbar](./src/components/NavBar.js)
 ![Welcome Page](screenshots/welcome.png)
 ![Home Page](screenshots/home.png)
 ![Games Page](screenshots/games.png)
