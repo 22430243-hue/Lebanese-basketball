@@ -20,6 +20,8 @@ This project highlights responsive design (works on desktop and mobile), uses Ta
 ## Screenshots
 **Welcome Page**
 ![Welcome Page](screenshots/welcome.png)
+** Page**
+![AboutUs Page](screenshots/AboutUs.png)
 **Home Page**
 ![Home Page](screenshots/home.png)
 **Games Page**
